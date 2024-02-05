@@ -7,7 +7,7 @@
   ],
   "routes":[
     {
-      "src":"/(.*)",
+      "src":"/video_frames",
       "dest":"app.py"
     }
   ]
